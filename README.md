@@ -1,4 +1,4 @@
-👋 Hello! I'm [Your Name]
+👋 Hello! I'm Adam Ganim
 
 🎓 Bachelor in Economics and Information Systems Management
 💻 Specialized in Python Programming & Data Analysis
@@ -21,5 +21,5 @@ Advanced Machine Learning techniques
 Data Engineering and Big Data technologies
 Financial modeling and economic simulations
 📫 How to Reach Me:
-LinkedIn: Your LinkedIn Profile
-Email: Your Email Address
+LinkedIn: www.linkedin.com/in/adam-ghanem-1a6763268
+Email: adamghanim1012@gmail.com
