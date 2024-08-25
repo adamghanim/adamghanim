@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamghanim
 - 👀 I’m interested in learning new stuff ever day
-- 🌱 I’m currently learning html,css,javascript
-- 💞️ I’m looking to collaborate on a student positon
+- 🌱 Economics and Management student specializing in Information Systems. Passionate about data analysis, software development, and creating innovative technological solutions to improve and manage business processes. My focus is on utilizing advanced tools in analytics and business intelligence to make data-driven decisions.
+- 💞️ I’m looking to collaborate on a junior postion 
 - 📫 How to reach me adamghanim1012@gmail.com
 
 <!---
